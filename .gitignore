@@ -3,3 +3,6 @@ lockfree_bench
 tcp_bench
 *.o
 .DS_Store
+hft_engine
+hft_benchmark
+.vscode/
